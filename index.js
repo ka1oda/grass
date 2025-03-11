@@ -1,596 +1,577 @@
-function _0x33b8() {
-    const _0x2ceded = [
-        '\x20connections',
-        'blue',
-        'stringify',
-        'PING',
-        'error',
-        ']\x20Rate\x20limited,\x20waiting\x20',
-        'HTTP\x20Request\x20Error:\x20',
-        'readFile',
-        '5.1.1',
-        '139804oqmXPD',
-        'method',
-        'post',
-        'length',
-        'Error\x20loading\x20accounts.txt:\x20',
-        '123gMhQgF',
-        'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20Chrome/123.0.0.0',
-        'Failed\x20to\x20fetch\x20IP\x20score:\x20',
-        'base64',
-        'Invalid\x20key',
-        'all',
-        'floor',
-        'message',
-        'push',
-        'Message\x20processing\x20error\x20on\x20',
-        'format',
-        'arraybuffer',
-        'body',
-        'headers',
-        'res',
-        'printf',
-        'appendFile',
-        'set',
-        'https://api.getgrass.io/login',
-        '\x20for\x20retry\x20attempt\x20',
-        'application/json',
-        '\x20[WEBSOCKET]\x20Timeout\x20on\x20',
-        'get',
-        'terminate',
-        ']\x20Switching\x20to\x20fallback\x20proxy\x20',
-        '\x20failed:\x20',
-        'wynd:user_id',
-        '96962HjRjLS',
-        'Error\x20reading\x20',
-        'trim',
-        ']\x20Failed\x20to\x20write\x20proxy:\x20',
-        'ws://',
-        'exit',
-        'mac_address',
-        'ipScore',
-        ']\x20Switched\x20to\x20fallback\x20proxy\x20',
-        'SIGINT',
-        'Console',
-        'https://director.getgrass.io',
-        '\x20for\x20account\x20index\x20',
-        'Starting\x20connection\x20',
-        'send',
-        'lkbnfiajjmbhnfledhphioinpickokdi',
-        ']\x20Checkin\x20successful\x20for\x20',
-        'filter',
-        'question',
-        'clear',
-        'Fallback\x20to\x20next\x20available\x20proxy\x20',
-        'Active\x20WebSocket\x20connections:\x20',
-        'No\x20proxies\x20found',
-        ']\x20Checkin\x20failed\x20for\x20',
-        'accounts.txt',
-        ']\x20No\x20initial\x20proxy\x20available\x20for\x20',
-        'host',
-        ']\x20Waiting\x20',
-        'open',
-        'from',
-        'key',
-        'log',
-        'map',
-        ']\x20[WEBSOCKET]\x20Connection\x20',
-        'extension',
-        'status',
-        'gray',
-        'has',
-        ']\x20Connection\x20',
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRtaWJidHByZmtreXRnY3dianptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE0NDE2MTMsImV4cCI6MjA1NzAxNzYxM30.NMnFozULCzDYocjduyH3m0hzjnA3socZ68vvLeKcc-c',
-        '...',
-        'Authorization\x20failed,\x20exiting',
-        'Key\x20validated',
-        '\x20closed',
-        'proxy',
-        'createInterface',
-        'Main\x20loop\x20running,\x20active\x20connections:\x20',
-        'Invalid\x20checkin\x20response',
-        'Error\x20saving:',
-        'https://tmibbtprfkkytgcwbjzm.supabase.co',
-        'Start\x20error:\x20',
-        'random',
-        '\x20with\x20',
-        ')\x20on\x20',
-        'green',
-        '\x20Received:\x20',
-        '10KbtNCc',
-        '266680iqTiVS',
-        '/checkin',
-        '\x20for\x20',
-        'request',
-        'destroy',
-        '\x20Sent\x20PING\x20on\x20',
-        'single',
-        'size',
-        'Selected\x20fallback\x20proxy\x20',
-        'port',
-        'userId',
-        'All\x20fallback\x20proxies\x20have\x20been\x20used\x20or\x20failed,\x20resetting\x20proxy\x20pool',
-        'OPEN',
-        'url',
-        ']\x20Skipping\x20failed\x20account:\x20',
-        'Error:',
-        'Initiated\x20',
-        'https://api.getgrass.io/retrieveDevice?input={\x22deviceId\x22:\x22',
-        'wynd:browser_id',
-        '\x20(ID:\x20',
-        'statusText',
-        ',\x20restarting...',
-        'Selected\x20initial\x20proxy\x20',
-        'utf8',
-        'createLogger',
-        'user',
-        'storage',
-        'toUpperCase',
-        'agent',
-        'add',
-        'update',
-        '\x20[WEBSOCKET]\x20Connection\x20',
-        '2337423gCUXie',
-        'info',
-        'Connections\x20per\x20account:\x20',
-        '102208icfBgX',
-        'result',
-        '?token=',
-        'Error\x20validating\x20key:',
-        ']\x20Failed\x20to\x20process\x20',
-        'parse',
-        ']\x20Missing\x20browserId\x20or\x20userId\x20for\x20',
-        '\x20opened\x20with\x20',
-        'proxies.txt',
-        'data',
-        'select',
-        'All\x20connections\x20closed',
-        'Redirect',
-        'forEach',
-        'yellowBright',
-        'stdin',
-        'token',
-        'acessKeys',
-        ']\x20Login\x20successful\x20with\x20proxy\x20',
-        'delete',
-        '248435eMgnCz',
-        'chrome-extension://lkbnfiajjmbhnfledhphioinpickokdi',
-        'No\x20initial\x20proxy\x20available\x20for\x20account\x20index\x20',
-        'close',
-        ']\x20Proxy\x20recorded:\x20',
-        'accessToken',
-        'CLOSED',
-        'stdout',
-        'warn',
-        'Error\x20finding\x20device:',
-        'action',
-        '1132gBQEeI',
-        '18Kwdofx',
-        '42ypgsae',
-        'readyState',
-        's\x20before\x20reconnecting\x20',
-        'combine',
-        'split',
-        '\x20[WEBSOCKET]\x20Error\x20on\x20',
-        'Device\x20found',
-        '\x20Ping\x20failed\x20on\x20'
-    ];
-    _0x33b8 = function () {
-        return _0x2ceded;
-    };
-    return _0x33b8();
-}
-const _0xf38acb = _0x5049;
-(function (_0x2dba27, _0x32c017) {
-    const _0x3dc462 = _0x5049,
-        _0x2c8bfc = _0x2dba27();
+const _0x3d15d7 = _0x4613;
+(function (_0x2f981c, _0x5344d1) {
+    const _0x171202 = _0x4613,
+        _0x523465 = _0x2f981c();
     while (!![]) {
         try {
-            const _0x3db92b =
-                parseInt(_0x3dc462(0x192)) / 0x1 +
-                -parseInt(_0x3dc462(0x140)) / 0x2 +
-                (parseInt(_0x3dc462(0x177)) / 0x3) *
-                    (parseInt(_0x3dc462(0x15f)) / 0x4) +
-                parseInt(_0x3dc462(0x154)) / 0x5 +
-                (parseInt(_0x3dc462(0x161)) / 0x6) *
-                    (-parseInt(_0x3dc462(0x172)) / 0x7) +
-                (-parseInt(_0x3dc462(0x11d)) / 0x8) *
-                    (parseInt(_0x3dc462(0x160)) / 0x9) +
-                (-parseInt(_0x3dc462(0x11c)) / 0xa) *
-                    (-parseInt(_0x3dc462(0x13d)) / 0xb);
-            if (_0x3db92b === _0x32c017) break;
-            else _0x2c8bfc['push'](_0x2c8bfc['shift']());
-        } catch (_0x24ef60) {
-            _0x2c8bfc['push'](_0x2c8bfc['shift']());
+            const _0x55ac9b =
+                -parseInt(_0x171202(0x16c)) / 0x1 +
+                -parseInt(_0x171202(0x1cb)) / 0x2 +
+                -parseInt(_0x171202(0x1a6)) / 0x3 +
+                (parseInt(_0x171202(0x201)) / 0x4) *
+                    (-parseInt(_0x171202(0x1f7)) / 0x5) +
+                (parseInt(_0x171202(0x1b6)) / 0x6) *
+                    (parseInt(_0x171202(0x1dc)) / 0x7) +
+                parseInt(_0x171202(0x19a)) / 0x8 +
+                parseInt(_0x171202(0x171)) / 0x9;
+            if (_0x55ac9b === _0x5344d1) break;
+            else _0x523465['push'](_0x523465['shift']());
+        } catch (_0x3eb4b6) {
+            _0x523465['push'](_0x523465['shift']());
         }
     }
-})(_0x33b8, 0x1ba0f);
-import _0x36bcf6 from 'ws';
-import _0x3bf809 from 'axios';
+})(_0x32bd, 0x7a9d3);
+import _0x5c8539 from 'ws';
+import _0x480099 from 'axios';
 import { randomUUID } from 'crypto';
+function _0x4613(_0x30fcf0, _0xc68be4) {
+    const _0x32bd6a = _0x32bd();
+    return (
+        (_0x4613 = function (_0x46139c, _0x55b2f0) {
+            _0x46139c = _0x46139c - 0x168;
+            let _0x456926 = _0x32bd6a[_0x46139c];
+            return _0x456926;
+        }),
+        _0x4613(_0x30fcf0, _0xc68be4)
+    );
+}
 import { HttpsProxyAgent } from 'https-proxy-agent';
-import _0x59c91c from 'fs/promises';
-import _0x5252d3 from 'fake-useragent';
+import _0x543e65 from 'fs/promises';
+import _0x65cd95 from 'fake-useragent';
 import { createClient } from '@supabase/supabase-js';
-import _0x1f3452 from 'getmac';
-import _0x243d10 from 'readline';
-import _0xacb57c from 'p-limit';
-import _0x2322b7 from 'winston';
-import _0x22a466 from 'chalk';
+import _0x25bea3 from 'getmac';
+import _0x5d9051 from 'readline';
+import _0x3ef3ca from 'p-limit';
+import _0x1982f8 from 'winston';
+import _0x101c26 from 'chalk';
+function _0x32bd() {
+    const _0x171700 = [
+        'filter',
+        'exit',
+        'trim',
+        'request',
+        ']\x20Missing\x20browserId\x20or\x20userId\x20for\x20',
+        'proxies.txt',
+        'select',
+        'host',
+        'question',
+        '\x20-\x20',
+        'Selected\x20initial\x20proxy\x20',
+        'utf8',
+        'SIGINT',
+        'yellow',
+        ']\x20[WEBSOCKET]\x20Connection\x20',
+        '33159rfbiaK',
+        'Invalid\x20checkin\x20response',
+        'Device\x20found',
+        '/checkin',
+        'all',
+        'Fallback\x20to\x20next\x20available\x20proxy\x20',
+        'green',
+        'info',
+        'Device\x20registered',
+        'has',
+        'responseUrl',
+        'Connections\x20per\x20account:\x20',
+        '...',
+        'toString',
+        'set',
+        '\x20with\x20',
+        '\x20[WEBSOCKET]\x20Connection\x20',
+        'log',
+        'now',
+        'mac_address',
+        'size',
+        '\x20for\x20account\x20index\x20',
+        'destinations',
+        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRtaWJidHByZmtreXRnY3dianptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE0NDE2MTMsImV4cCI6MjA1NzAxNzYxM30.NMnFozULCzDYocjduyH3m0hzjnA3socZ68vvLeKcc-c',
+        'Failed\x20to\x20fetch\x20IP\x20score:\x20',
+        ']\x20Waiting\x20',
+        '\x20[WEBSOCKET]\x20Timeout\x20on\x20',
+        '798245Xdpfrp',
+        'Message\x20processing\x20error\x20on\x20',
+        'action',
+        'response',
+        ']:\x20',
+        '\x20for\x20retry\x20attempt\x20',
+        'result',
+        'key',
+        'Initiated\x20',
+        'Error\x20validating\x20key:',
+        '12yOPUcA',
+        'Console',
+        '\x20opened\x20with\x20',
+        'readFile',
+        'https://api.getgrass.io/retrieveDevice?input={\x22deviceId\x22:\x22',
+        'Selected\x20fallback\x20proxy\x20',
+        ',\x20restarting...',
+        'Authorization\x20failed,\x20exiting',
+        'Main\x20loop\x20running,\x20active\x20connections:\x20',
+        '959025iWEgjf',
+        'extension',
+        'single',
+        'post',
+        'transports',
+        '13276899DgYfpm',
+        ']\x20Failed\x20to\x20write\x20proxy:\x20',
+        ')\x20on\x20',
+        'Starting\x20connection\x20',
+        '\x20closed',
+        '\x20Received:\x20',
+        'blue',
+        'res',
+        'get',
+        'floor',
+        'printf',
+        ']\x20Checkin\x20failed\x20for\x20',
+        '\x20[WEBSOCKET]\x20Error\x20on\x20',
+        'Device\x20not\x20found',
+        'headers',
+        's\x20before\x20connecting\x20',
+        'Error\x20loading\x20accounts.txt:\x20',
+        ']\x20Attempting\x20WebSocket\x20connection\x20',
+        'random',
+        'push',
+        'Enter\x20access\x20key:\x20',
+        'terminate',
+        'stdout',
+        'wss://',
+        'error',
+        'from',
+        ']\x20Terminating\x20WebSocket\x20',
+        'url',
+        'send',
+        'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20Chrome/123.0.0.0',
+        'add',
+        'acessKeys',
+        'Key\x20validated',
+        'delete',
+        'map',
+        'stringify',
+        'Redirect',
+        ']\x20No\x20initial\x20proxy\x20available\x20for\x20',
+        'chrome-extension://lkbnfiajjmbhnfledhphioinpickokdi',
+        'proxy',
+        '\x20for\x20',
+        '6175600dosBlC',
+        'application/json',
+        'No\x20initial\x20proxy\x20available\x20for\x20account\x20index\x20',
+        'Error:',
+        'ipScore',
+        'forEach',
+        ']\x20Login\x20failed\x20with\x20',
+        'https://api.getgrass.io/login',
+        'body',
+        'format',
+        'IP\x20score\x20for\x20proxy\x20',
+        ']\x20Proxy\x20recorded:\x20',
+        '1022229SbzzMK',
+        'No\x20proxies\x20found',
+        'CLOSED',
+        'arraybuffer',
+        'accessToken',
+        '5.1.1',
+        'https://tmibbtprfkkytgcwbjzm.supabase.co',
+        'token',
+        'combine',
+        'length',
+        'Max\x20proxy\x20attempts\x20reached\x20for\x20',
+        'wynd:user_id',
+        'accounts.txt',
+        'warn',
+        '\x20Sent\x20PING\x20on\x20',
+        'Error\x20finding\x20device:',
+        '162aWTACb',
+        'method',
+        'status',
+        'port',
+        'base64',
+        'destroy',
+        'wynd:browser_id',
+        'close',
+        'toUpperCase',
+        'agent',
+        'data',
+        ']\x20Rate\x20limited,\x20waiting\x20',
+        'user',
+        'Start\x20error:\x20',
+        'userId',
+        'message',
+        'gray',
+        'split',
+        'readyState',
+        'storage',
+        ']\x20Skipping\x20failed\x20account:\x20',
+        '188236TFIRba',
+        'clear'
+    ];
+    _0x32bd = function () {
+        return _0x171700;
+    };
+    return _0x32bd();
+}
 const map = new Map(),
     loginnedUsers = new Map(),
     ipScores = new Map(),
     usedProxies = new Set(),
     failedProxies = new Set(),
     activeConnections = new Map(),
-    DIRECTOR_SERVER = _0xf38acb(0x19d),
+    DIRECTOR_SERVER = 'https://director.getgrass.io',
     PING_INTERVAL = 0x2 * 0x3c * 0x3e8,
-    BROWSER_ID_KEY = _0xf38acb(0x12f),
-    USER_ID_KEY = _0xf38acb(0x191),
-    VERSION = _0xf38acb(0x171),
-    EXTENSION_ID = _0xf38acb(0x1a1),
+    BROWSER_ID_KEY = _0x3d15d7(0x1bc),
+    USER_ID_KEY = _0x3d15d7(0x1b1),
+    VERSION = _0x3d15d7(0x1ab),
+    EXTENSION_ID = 'lkbnfiajjmbhnfledhphioinpickokdi',
     MAX_PROXY_ATTEMPTS = 0x3,
     MAX_CONCURRENT_CONNECTIONS = 0x3,
-    limit = _0xacb57c(MAX_CONCURRENT_CONNECTIONS),
-    sleep = (_0x5797e9) =>
-        new Promise((_0x1bf644) => setTimeout(_0x1bf644, _0x5797e9)),
-    getUnixTimestamp = () => Math[_0xf38acb(0x17d)](Date['now']() / 0x3e8),
+    limit = _0x3ef3ca(MAX_CONCURRENT_CONNECTIONS),
+    sleep = (_0x5cbb23) =>
+        new Promise((_0x135c14) => setTimeout(_0x135c14, _0x5cbb23)),
+    getUnixTimestamp = () =>
+        Math[_0x3d15d7(0x17a)](Date[_0x3d15d7(0x1ee)]() / 0x3e8),
     uuidv4 = () => randomUUID(),
-    getRandomDelay = (_0x5a3cbe, _0x59cba2) =>
-        Math[_0xf38acb(0x17d)](
-            Math[_0xf38acb(0x117)]() * (_0x59cba2 - _0x5a3cbe + 0x1)
-        ) + _0x5a3cbe;
-async function loadProxies(_0x5b37ad) {
-    const _0x5f1255 = _0xf38acb;
+    getRandomDelay = (_0x5b3850, _0x2d1ec7) =>
+        Math['floor'](
+            Math[_0x3d15d7(0x183)]() * (_0x2d1ec7 - _0x5b3850 + 0x1)
+        ) + _0x5b3850;
+async function loadProxies(_0x15c0d6) {
+    const _0x2423da = _0x3d15d7;
     try {
-        const _0x5846ea = await _0x59c91c[_0x5f1255(0x170)](
-            _0x5b37ad,
-            _0x5f1255(0x134)
+        const _0x236697 = await _0x543e65[_0x2423da(0x204)](
+            _0x15c0d6,
+            _0x2423da(0x1d8)
         );
-        return _0x5846ea['split']('\x0a')
-            [_0x5f1255(0x1b2)]((_0x280228) => _0x280228[_0x5f1255(0x194)]())
-            [_0x5f1255(0x1a3)]((_0x387870) => _0x387870[_0x5f1255(0x175)] > 0x0)
-            [_0x5f1255(0x1b2)]((_0x2a10fc) => {
-                const _0xdff449 = _0x5f1255,
-                    [_0x381c00, _0x39621d] = _0x2a10fc[_0xdff449(0x165)]('@'),
-                    [_0x55dc40, _0x336bd1] = _0x381c00['split'](':'),
-                    [_0x51c95a, _0x346620] = _0x39621d['split'](':'),
-                    _0x4a0d7e = new HttpsProxyAgent({
-                        host: _0x55dc40,
-                        port: _0x336bd1,
-                        username: _0x51c95a,
-                        password: _0x346620
+        return _0x236697[_0x2423da(0x1c7)]('\x0a')
+            [_0x2423da(0x193)]((_0x542684) => _0x542684[_0x2423da(0x1cf)]())
+            [_0x2423da(0x1cd)]((_0x34eeff) => _0x34eeff[_0x2423da(0x1af)] > 0x0)
+            ['map']((_0xad49d5) => {
+                const _0x5b992d = _0x2423da,
+                    [_0xebfde2, _0x9866cd] = _0xad49d5[_0x5b992d(0x1c7)]('@'),
+                    [_0xd39869, _0x4bbb62] = _0xebfde2['split'](':'),
+                    [_0x44d8e4, _0x53bcc6] = _0x9866cd[_0x5b992d(0x1c7)](':'),
+                    _0xa692f3 = new HttpsProxyAgent({
+                        host: _0xd39869,
+                        port: _0x4bbb62,
+                        username: _0x44d8e4,
+                        password: _0x53bcc6
                     });
                 return {
-                    ip: _0x55dc40,
-                    port: _0x336bd1,
-                    user: _0x51c95a,
-                    password: _0x346620,
-                    agent: _0x4a0d7e
+                    ip: _0xd39869,
+                    port: _0x4bbb62,
+                    user: _0x44d8e4,
+                    password: _0x53bcc6,
+                    agent: _0xa692f3
                 };
             });
-    } catch (_0x29c867) {
+    } catch (_0x3b164c) {
         return (
-            logger[_0x5f1255(0x16d)](
-                _0x5f1255(0x193) +
-                    _0x5b37ad +
+            logger[_0x2423da(0x189)](
+                'Error\x20reading\x20' +
+                    _0x15c0d6 +
                     ':\x20' +
-                    _0x29c867[_0x5f1255(0x17e)]
+                    _0x3b164c[_0x2423da(0x1c5)]
             ),
             []
         );
     }
 }
-function getInitialProxy(_0x861e6f, _0x198a62) {
-    const _0x29542b = _0xf38acb;
-    if (_0x198a62 < _0x861e6f['length']) {
-        const _0x18d4c4 = _0x861e6f[_0x198a62],
-            _0x3d8335 =
-                _0x18d4c4['ip'] +
+function getInitialProxy(_0x322fd9, _0x5441a5) {
+    const _0x49fab1 = _0x3d15d7;
+    if (_0x5441a5 < _0x322fd9[_0x49fab1(0x1af)]) {
+        const _0x4adba1 = _0x322fd9[_0x5441a5],
+            _0x533678 =
+                _0x4adba1['ip'] +
                 ':' +
-                _0x18d4c4['port'] +
+                _0x4adba1['port'] +
                 ':' +
-                _0x18d4c4[_0x29542b(0x136)];
+                _0x4adba1['user'];
         if (
-            !usedProxies[_0x29542b(0x109)](_0x3d8335) &&
-            !failedProxies[_0x29542b(0x109)](_0x3d8335)
+            !usedProxies[_0x49fab1(0x1e5)](_0x533678) &&
+            !failedProxies[_0x49fab1(0x1e5)](_0x533678)
         )
             return (
-                usedProxies[_0x29542b(0x13a)](_0x3d8335),
-                logger['info'](
-                    _0x29542b(0x133) + _0x3d8335 + _0x29542b(0x19e) + _0x198a62
+                usedProxies[_0x49fab1(0x18f)](_0x533678),
+                logger[_0x49fab1(0x1e3)](
+                    _0x49fab1(0x1d7) + _0x533678 + _0x49fab1(0x1f1) + _0x5441a5
                 ),
-                _0x18d4c4[_0x29542b(0x139)]
+                _0x4adba1['agent']
             );
     }
-    return logger[_0x29542b(0x15c)](_0x29542b(0x156) + _0x198a62), null;
+    return logger[_0x49fab1(0x1b3)](_0x49fab1(0x19c) + _0x5441a5), null;
 }
-function getFallbackProxy(_0x9a5ed1, _0x5d25a7, _0x434e6f) {
-    const _0x25c355 = _0xf38acb,
-        _0x221820 = _0x9a5ed1[_0x25c355(0x175)];
-    let _0x5ed9fb = _0x5d25a7 % _0x221820,
-        _0x189c0d = (_0x5ed9fb + _0x434e6f) % _0x221820,
-        _0x4df2f4 = _0x9a5ed1[_0x189c0d],
-        _0x3914d1 =
-            _0x4df2f4['ip'] +
+function getFallbackProxy(_0x5afde1, _0x1d6e8c, _0x3b97a2) {
+    const _0x18373f = _0x3d15d7,
+        _0x300e21 = _0x5afde1[_0x18373f(0x1af)];
+    let _0x43e8b6 = _0x1d6e8c % _0x300e21,
+        _0x5b7a8d = (_0x43e8b6 + _0x3b97a2) % _0x300e21,
+        _0x17310e = _0x5afde1[_0x5b7a8d],
+        _0x4445fb =
+            _0x17310e['ip'] +
             ':' +
-            _0x4df2f4[_0x25c355(0x126)] +
+            _0x17310e[_0x18373f(0x1b9)] +
             ':' +
-            _0x4df2f4[_0x25c355(0x136)];
+            _0x17310e[_0x18373f(0x1c2)];
     if (
-        !usedProxies[_0x25c355(0x109)](_0x3914d1) &&
-        !failedProxies[_0x25c355(0x109)](_0x3914d1)
+        !usedProxies[_0x18373f(0x1e5)](_0x4445fb) &&
+        !failedProxies[_0x18373f(0x1e5)](_0x4445fb)
     )
         return (
-            usedProxies['add'](_0x3914d1),
-            logger[_0x25c355(0x13e)](
-                _0x25c355(0x125) + _0x3914d1 + _0x25c355(0x18a) + _0x434e6f
+            usedProxies['add'](_0x4445fb),
+            logger[_0x18373f(0x1e3)](
+                _0x18373f(0x168) + _0x4445fb + _0x18373f(0x1fc) + _0x3b97a2
             ),
-            _0x4df2f4[_0x25c355(0x139)]
+            _0x17310e['agent']
         );
-    for (let _0x12b617 = 0x1; _0x12b617 < _0x221820; _0x12b617++) {
-        (_0x189c0d = (_0x5ed9fb + _0x434e6f + _0x12b617) % _0x221820),
-            (_0x4df2f4 = _0x9a5ed1[_0x189c0d]),
-            (_0x3914d1 =
-                _0x4df2f4['ip'] +
+    for (let _0x18b4d6 = 0x1; _0x18b4d6 < _0x300e21; _0x18b4d6++) {
+        (_0x5b7a8d = (_0x43e8b6 + _0x3b97a2 + _0x18b4d6) % _0x300e21),
+            (_0x17310e = _0x5afde1[_0x5b7a8d]),
+            (_0x4445fb =
+                _0x17310e['ip'] +
                 ':' +
-                _0x4df2f4[_0x25c355(0x126)] +
+                _0x17310e['port'] +
                 ':' +
-                _0x4df2f4[_0x25c355(0x136)]);
+                _0x17310e[_0x18373f(0x1c2)]);
         if (
-            !usedProxies[_0x25c355(0x109)](_0x3914d1) &&
-            !failedProxies['has'](_0x3914d1)
+            !usedProxies[_0x18373f(0x1e5)](_0x4445fb) &&
+            !failedProxies['has'](_0x4445fb)
         )
             return (
-                usedProxies[_0x25c355(0x13a)](_0x3914d1),
-                logger[_0x25c355(0x13e)](
-                    _0x25c355(0x1a6) + _0x3914d1 + _0x25c355(0x18a) + _0x434e6f
+                usedProxies[_0x18373f(0x18f)](_0x4445fb),
+                logger[_0x18373f(0x1e3)](
+                    _0x18373f(0x1e1) + _0x4445fb + _0x18373f(0x1fc) + _0x3b97a2
                 ),
-                _0x4df2f4[_0x25c355(0x139)]
+                _0x17310e[_0x18373f(0x1bf)]
             );
     }
     return (
-        logger['warn'](_0x25c355(0x128)),
-        usedProxies['clear'](),
-        failedProxies[_0x25c355(0x1a5)](),
-        getFallbackProxy(_0x9a5ed1, _0x5d25a7, 0x0)
+        logger[_0x18373f(0x1b3)](
+            'All\x20fallback\x20proxies\x20have\x20been\x20used\x20or\x20failed,\x20resetting\x20proxy\x20pool'
+        ),
+        usedProxies[_0x18373f(0x1cc)](),
+        failedProxies[_0x18373f(0x1cc)](),
+        getFallbackProxy(_0x5afde1, _0x1d6e8c, 0x0)
     );
 }
-async function getIpScore(_0x2bfbdf, _0x39a937, _0x5e0ef9) {
-    const _0x3b622b = _0xf38acb,
-        _0xa88829 =
-            _0x39a937[_0x3b622b(0x110)][_0x3b622b(0x1ac)] +
+async function getIpScore(_0x2abb8b, _0x29694e, _0x12f15c) {
+    const _0xb6eb6e = _0x3d15d7,
+        _0x5299f5 =
+            _0x29694e[_0xb6eb6e(0x198)]['host'] +
             ':' +
-            _0x39a937[_0x3b622b(0x110)]['port'] +
+            _0x29694e[_0xb6eb6e(0x198)][_0xb6eb6e(0x1b9)] +
             ':' +
-            _0x2bfbdf;
-    if (ipScores[_0x3b622b(0x109)](_0xa88829))
-        return ipScores[_0x3b622b(0x18d)](_0xa88829);
-    const _0x278204 = _0x3b622b(0x12e) + _0x2bfbdf + '\x22}';
+            _0x2abb8b;
+    if (ipScores[_0xb6eb6e(0x1e5)](_0x5299f5))
+        return ipScores[_0xb6eb6e(0x179)](_0x5299f5);
+    const _0x2ad59b = _0xb6eb6e(0x205) + _0x2abb8b + '\x22}';
     try {
-        const _0x505e9a = await _0x3bf809[_0x3b622b(0x18d)](_0x278204, {
-                headers: { Authorization: _0x5e0ef9 },
-                httpAgent: _0x39a937,
-                httpsAgent: _0x39a937,
+        const _0x178c3e = await _0x480099[_0xb6eb6e(0x179)](_0x2ad59b, {
+                headers: { Authorization: _0x12f15c },
+                httpAgent: _0x29694e,
+                httpsAgent: _0x29694e,
                 timeout: 0x1388
             }),
-            _0x48c2bf =
-                _0x505e9a[_0x3b622b(0x149)]?.['result']?.[_0x3b622b(0x149)]?.[
-                    _0x3b622b(0x199)
+            _0x6123ac =
+                _0x178c3e['data']?.[_0xb6eb6e(0x1fd)]?.[_0xb6eb6e(0x1c0)]?.[
+                    _0xb6eb6e(0x19e)
                 ];
-        ipScores['set'](_0xa88829, _0x48c2bf);
-        if (_0x48c2bf !== undefined)
+        ipScores['set'](_0x5299f5, _0x6123ac);
+        if (_0x6123ac !== undefined)
             return (
-                logger['info'](
-                    'IP\x20score\x20for\x20proxy\x20' +
-                        _0x39a937[_0x3b622b(0x110)][_0x3b622b(0x1ac)] +
+                logger[_0xb6eb6e(0x1e3)](
+                    _0xb6eb6e(0x1a4) +
+                        _0x29694e['proxy'][_0xb6eb6e(0x1d4)] +
                         ':' +
-                        _0x39a937[_0x3b622b(0x110)]['port'] +
+                        _0x29694e[_0xb6eb6e(0x198)][_0xb6eb6e(0x1b9)] +
                         ':\x20' +
-                        _0x48c2bf
+                        _0x6123ac
                 ),
-                _0x48c2bf
+                _0x6123ac
             );
         return null;
-    } catch (_0x457285) {
+    } catch (_0x34362f) {
         return (
-            logger['error'](_0x3b622b(0x179) + _0x457285[_0x3b622b(0x17e)]),
+            logger[_0xb6eb6e(0x189)](
+                _0xb6eb6e(0x1f4) + _0x34362f[_0xb6eb6e(0x1c5)]
+            ),
             null
         );
     }
 }
-const logger = _0x2322b7[_0xf38acb(0x135)]({
-    level: _0xf38acb(0x13e),
-    format: _0x2322b7[_0xf38acb(0x181)][_0xf38acb(0x164)](
-        _0x2322b7[_0xf38acb(0x181)]['timestamp'](),
-        _0x2322b7[_0xf38acb(0x181)][_0xf38acb(0x186)](
+const logger = _0x1982f8['createLogger']({
+    level: 'info',
+    format: _0x1982f8['format'][_0x3d15d7(0x1ae)](
+        _0x1982f8[_0x3d15d7(0x1a3)]['timestamp'](),
+        _0x1982f8[_0x3d15d7(0x1a3)][_0x3d15d7(0x17b)](
             ({
-                timestamp: _0x1d8df3,
-                level: _0x3a4bce,
-                message: _0x43ea0f
+                timestamp: _0x2cc68d,
+                level: _0x446d32,
+                message: _0x273ef2
             }) => {
-                const _0x279ef2 = _0xf38acb;
-                let _0x8b507b;
-                switch (_0x3a4bce) {
-                    case _0x279ef2(0x13e):
-                        _0x8b507b = _0x22a466[_0x279ef2(0x11a)](
-                            _0x3a4bce[_0x279ef2(0x138)]()
+                const _0x50e85f = _0x3d15d7;
+                let _0x4ad41c;
+                switch (_0x446d32) {
+                    case _0x50e85f(0x1e3):
+                        _0x4ad41c = _0x101c26[_0x50e85f(0x1e2)](
+                            _0x446d32['toUpperCase']()
                         );
                         break;
-                    case _0x279ef2(0x16d):
-                        _0x8b507b = _0x22a466[_0x279ef2(0x14e)](
-                            _0x3a4bce['toUpperCase']()
+                    case 'error':
+                        _0x4ad41c = _0x101c26['yellowBright'](
+                            _0x446d32['toUpperCase']()
                         );
                         break;
-                    case _0x279ef2(0x15c):
-                        _0x8b507b = _0x22a466['yellow'](
-                            _0x3a4bce['toUpperCase']()
+                    case _0x50e85f(0x1b3):
+                        _0x4ad41c = _0x101c26[_0x50e85f(0x1da)](
+                            _0x446d32[_0x50e85f(0x1be)]()
                         );
                         break;
                     default:
-                        _0x8b507b = _0x22a466[_0x279ef2(0x16a)](
-                            _0x3a4bce['toUpperCase']()
+                        _0x4ad41c = _0x101c26[_0x50e85f(0x177)](
+                            _0x446d32[_0x50e85f(0x1be)]()
                         );
                 }
                 return (
-                    _0x22a466[_0x279ef2(0x108)](_0x1d8df3) +
+                    _0x101c26[_0x50e85f(0x1c6)](_0x2cc68d) +
                     '\x20[' +
-                    _0x8b507b +
-                    ']:\x20' +
-                    _0x43ea0f
+                    _0x4ad41c +
+                    _0x50e85f(0x1fb) +
+                    _0x273ef2
                 );
             }
         )
     ),
-    transports: [new _0x2322b7['transports'][_0xf38acb(0x19c)]()]
+    transports: [new _0x1982f8[_0x3d15d7(0x170)][_0x3d15d7(0x202)]()]
 });
 async function loadAccounts() {
-    const _0x2f4ed6 = _0xf38acb;
+    const _0x295c82 = _0x3d15d7;
     try {
-        const _0x27c0c7 = await _0x59c91c[_0x2f4ed6(0x170)](
-            _0x2f4ed6(0x1aa),
-            _0x2f4ed6(0x134)
+        const _0x5ad203 = await _0x543e65[_0x295c82(0x204)](
+            _0x295c82(0x1b2),
+            'utf8'
         );
-        return _0x27c0c7[_0x2f4ed6(0x165)]('\x0a')
-            ['map']((_0x3cbff0) => _0x3cbff0['trim']())
-            [_0x2f4ed6(0x1a3)]((_0x231e69) => _0x231e69[_0x2f4ed6(0x175)] > 0x0)
-            [_0x2f4ed6(0x1b2)]((_0x14ad06) => {
-                const [_0x33f172, _0xb84b92] = _0x14ad06['split'](':');
-                return { username: _0x33f172, password: _0xb84b92 };
+        return _0x5ad203[_0x295c82(0x1c7)]('\x0a')
+            [_0x295c82(0x193)]((_0xabfcc3) => _0xabfcc3[_0x295c82(0x1cf)]())
+            [_0x295c82(0x1cd)]((_0x8a8925) => _0x8a8925['length'] > 0x0)
+            ['map']((_0x400ab5) => {
+                const _0x1d8678 = _0x295c82,
+                    [_0x2c9889, _0x170bbc] = _0x400ab5[_0x1d8678(0x1c7)](':');
+                return { username: _0x2c9889, password: _0x170bbc };
             });
-    } catch (_0x1bd244) {
-        return (
-            logger[_0x2f4ed6(0x16d)](
-                _0x2f4ed6(0x176) + _0x1bd244[_0x2f4ed6(0x17e)]
-            ),
-            []
-        );
+    } catch (_0x4fe7d1) {
+        return logger['error'](_0x295c82(0x181) + _0x4fe7d1['message']), [];
     }
 }
-function _0x5049(_0xbc3d35, _0x29721a) {
-    const _0x33b858 = _0x33b8();
-    return (
-        (_0x5049 = function (_0x504926, _0xd87153) {
-            _0x504926 = _0x504926 - 0x108;
-            let _0x4790df = _0x33b858[_0x504926];
-            return _0x4790df;
-        }),
-        _0x5049(_0xbc3d35, _0x29721a)
-    );
-}
-async function writeProxyToDb(_0x1154d5, _0x2572c5) {
-    const _0xf8424e = _0xf38acb,
+async function writeProxyToDb(_0x2233e7, _0x1a9d1a) {
+    const _0x51e1f0 = _0x3d15d7,
         {
-            host: _0x44a242,
-            port: _0x23bd39,
-            username: _0x55a945,
-            password: _0x399971
-        } = _0x2572c5['proxy'],
-        _0x21ac67 =
-            _0x1154d5 +
-            '\x20-\x20' +
-            _0x44a242 +
+            host: _0x4dbe5a,
+            port: _0x487ade,
+            username: _0x28066e,
+            password: _0x502bd2
+        } = _0x1a9d1a[_0x51e1f0(0x198)],
+        _0x3956c1 =
+            _0x2233e7 +
+            _0x51e1f0(0x1d6) +
+            _0x4dbe5a +
             ':' +
-            _0x23bd39 +
+            _0x487ade +
             ':' +
-            _0x55a945 +
+            _0x28066e +
             ':' +
-            _0x399971 +
+            _0x502bd2 +
             '\x0a';
     try {
-        await _0x59c91c[_0xf8424e(0x187)]('proxies-db.txt', _0x21ac67),
-            logger[_0xf8424e(0x13e)](
+        await _0x543e65['appendFile']('proxies-db.txt', _0x3956c1),
+            logger['info'](
                 '[' +
-                    _0x1154d5 +
-                    _0xf8424e(0x158) +
-                    _0x21ac67[_0xf8424e(0x194)]()
+                    _0x2233e7 +
+                    _0x51e1f0(0x1a5) +
+                    _0x3956c1[_0x51e1f0(0x1cf)]()
             );
-    } catch (_0x2843d4) {
-        logger[_0xf8424e(0x16d)](
-            '[' + _0x1154d5 + _0xf8424e(0x195) + _0x2843d4[_0xf8424e(0x17e)]
+    } catch (_0x5a43c2) {
+        logger[_0x51e1f0(0x189)](
+            '[' + _0x2233e7 + _0x51e1f0(0x172) + _0x5a43c2[_0x51e1f0(0x1c5)]
         );
     }
 }
 async function login({
-    username: _0x1e0cc1,
-    password: _0xc0688f,
-    agent: _0x585dc2,
-    accNumber: _0x5040a2,
-    proxies: _0x353fe9,
-    accountIndex: _0x408f12,
-    totalAccounts: _0x50ca53,
+    username: _0x100ae2,
+    password: _0x2b9133,
+    agent: _0x59a2d1,
+    accNumber: _0x41977a,
+    proxies: _0x2ad49f,
+    accountIndex: _0xbe819d,
+    totalAccounts: _0x5777df,
     attempt: attempt = 0x0
 }) {
-    const _0x51d6d5 = _0xf38acb;
-    if (map[_0x51d6d5(0x109)](_0x1e0cc1))
-        return map[_0x51d6d5(0x18d)](_0x1e0cc1);
+    const _0x2b099e = _0x3d15d7;
+    if (map[_0x2b099e(0x1e5)](_0x100ae2))
+        return map[_0x2b099e(0x179)](_0x100ae2);
     try {
-        const _0x4d989e = await _0x3bf809[_0x51d6d5(0x174)](
-                _0x51d6d5(0x189),
-                { username: _0x1e0cc1, password: _0xc0688f },
+        const _0x1cfbd8 = await _0x480099['post'](
+                _0x2b099e(0x1a1),
+                { username: _0x100ae2, password: _0x2b9133 },
                 {
-                    httpAgent: _0x585dc2,
-                    httpsAgent: _0x585dc2,
-                    headers: { 'User-Agent': _0x51d6d5(0x178) },
+                    httpAgent: _0x59a2d1,
+                    httpsAgent: _0x59a2d1,
+                    headers: { 'User-Agent': _0x2b099e(0x18e) },
                     timeout: 0x1388
                 }
             ),
-            _0x4efb84 =
-                _0x4d989e[_0x51d6d5(0x149)][_0x51d6d5(0x141)][_0x51d6d5(0x149)];
+            _0x114922 =
+                _0x1cfbd8[_0x2b099e(0x1c0)][_0x2b099e(0x1fd)][_0x2b099e(0x1c0)];
         return (
-            loginnedUsers[_0x51d6d5(0x188)](_0x1e0cc1, {
-                userId: _0x4efb84[_0x51d6d5(0x127)],
-                accessToken: _0x4efb84[_0x51d6d5(0x159)]
+            loginnedUsers[_0x2b099e(0x1ea)](_0x100ae2, {
+                userId: _0x114922[_0x2b099e(0x1c4)],
+                accessToken: _0x114922[_0x2b099e(0x1aa)]
             }),
-            await writeProxyToDb(_0x5040a2, _0x585dc2),
-            logger[_0x51d6d5(0x13e)](
+            await writeProxyToDb(_0x41977a, _0x59a2d1),
+            logger[_0x2b099e(0x1e3)](
                 '[' +
-                    _0x5040a2 +
-                    _0x51d6d5(0x152) +
-                    _0x585dc2['proxy'][_0x51d6d5(0x1ac)] +
+                    _0x41977a +
+                    ']\x20Login\x20successful\x20with\x20proxy\x20' +
+                    _0x59a2d1[_0x2b099e(0x198)]['host'] +
                     ':' +
-                    _0x585dc2[_0x51d6d5(0x110)]['port']
+                    _0x59a2d1[_0x2b099e(0x198)]['port']
             ),
-            _0x4efb84
+            _0x114922
         );
-    } catch (_0x1a3279) {
-        logger['error'](
+    } catch (_0x31c829) {
+        logger[_0x2b099e(0x189)](
             '[' +
-                _0x5040a2 +
-                ']\x20Login\x20failed\x20with\x20' +
-                _0x585dc2[_0x51d6d5(0x110)][_0x51d6d5(0x1ac)] +
+                _0x41977a +
+                _0x2b099e(0x1a0) +
+                _0x59a2d1[_0x2b099e(0x198)][_0x2b099e(0x1d4)] +
                 ':' +
-                _0x585dc2['proxy'][_0x51d6d5(0x126)] +
+                _0x59a2d1[_0x2b099e(0x198)][_0x2b099e(0x1b9)] +
                 ':\x20' +
-                _0x1a3279[_0x51d6d5(0x17e)]
+                _0x31c829[_0x2b099e(0x1c5)]
         ),
-            failedProxies[_0x51d6d5(0x13a)](
-                _0x585dc2[_0x51d6d5(0x110)][_0x51d6d5(0x1ac)] +
+            failedProxies[_0x2b099e(0x18f)](
+                _0x59a2d1['proxy'][_0x2b099e(0x1d4)] +
                     ':' +
-                    _0x585dc2['proxy']['port']
+                    _0x59a2d1[_0x2b099e(0x198)][_0x2b099e(0x1b9)]
             );
         if (attempt >= MAX_PROXY_ATTEMPTS)
-            throw new Error(
-                'Max\x20proxy\x20attempts\x20reached\x20for\x20' + _0x1e0cc1
-            );
-        const _0x532393 = getFallbackProxy(_0x353fe9, _0x50ca53, attempt);
+            throw new Error(_0x2b099e(0x1b0) + _0x100ae2);
+        const _0x366c64 = getFallbackProxy(_0x2ad49f, _0x5777df, attempt);
         return (
             logger['info'](
                 '[' +
-                    _0x5040a2 +
-                    _0x51d6d5(0x18f) +
-                    _0x532393[_0x51d6d5(0x110)][_0x51d6d5(0x1ac)] +
+                    _0x41977a +
+                    ']\x20Switching\x20to\x20fallback\x20proxy\x20' +
+                    _0x366c64['proxy'][_0x2b099e(0x1d4)] +
                     ':' +
-                    _0x532393[_0x51d6d5(0x110)][_0x51d6d5(0x126)]
+                    _0x366c64['proxy'][_0x2b099e(0x1b9)]
             ),
             await login({
-                username: _0x1e0cc1,
-                password: _0xc0688f,
-                agent: _0x532393,
-                accNumber: _0x5040a2,
-                proxies: _0x353fe9,
-                accountIndex: _0x408f12,
-                totalAccounts: _0x50ca53,
+                username: _0x100ae2,
+                password: _0x2b9133,
+                agent: _0x366c64,
+                accNumber: _0x41977a,
+                proxies: _0x2ad49f,
+                accountIndex: _0xbe819d,
+                totalAccounts: _0x5777df,
                 attempt: attempt + 0x1
             })
         );
@@ -598,642 +579,641 @@ async function login({
 }
 class CustomStorage {
     constructor() {
-        const _0x268bf1 = _0xf38acb;
-        this[_0x268bf1(0x137)] = {};
+        const _0x704a11 = _0x3d15d7;
+        this[_0x704a11(0x1c9)] = {};
     }
-    [_0xf38acb(0x18d)](_0xdadc33) {
-        const _0x35bc87 = _0xf38acb;
-        return this[_0x35bc87(0x137)][_0xdadc33] || null;
+    [_0x3d15d7(0x179)](_0x208c7f) {
+        const _0x2eb314 = _0x3d15d7;
+        return this[_0x2eb314(0x1c9)][_0x208c7f] || null;
     }
-    [_0xf38acb(0x188)](_0xc38123, _0x3e7dd8) {
-        const _0x34d2a7 = _0xf38acb;
-        this[_0x34d2a7(0x137)][_0xc38123] = _0x3e7dd8;
+    [_0x3d15d7(0x1ea)](_0x9992c, _0x7f7f96) {
+        const _0x49552f = _0x3d15d7;
+        this[_0x49552f(0x1c9)][_0x9992c] = _0x7f7f96;
     }
 }
-async function authenticate(_0x3b7b65) {
-    const _0xd898 = _0xf38acb,
-        _0x57062c = _0x3b7b65[_0xd898(0x18d)](BROWSER_ID_KEY) || uuidv4(),
-        _0x58635e = _0x3b7b65['get'](USER_ID_KEY),
-        _0x3fd32c = _0x5252d3();
+async function authenticate(_0x6916e6) {
+    const _0x1454af = _0x3d15d7,
+        _0x1a9706 = _0x6916e6[_0x1454af(0x179)](BROWSER_ID_KEY) || uuidv4(),
+        _0x431c6b = _0x6916e6[_0x1454af(0x179)](USER_ID_KEY),
+        _0x7fe440 = _0x65cd95();
     return (
-        _0x3b7b65[_0xd898(0x188)](BROWSER_ID_KEY, _0x57062c),
+        _0x6916e6[_0x1454af(0x1ea)](BROWSER_ID_KEY, _0x1a9706),
         {
-            browser_id: _0x57062c,
-            user_id: _0x58635e,
-            user_agent: _0x3fd32c,
+            browser_id: _0x1a9706,
+            user_id: _0x431c6b,
+            user_agent: _0x7fe440,
             timestamp: getUnixTimestamp(),
-            device_type: 'extension',
+            device_type: _0x1454af(0x16d),
             version: VERSION,
             extension_id: EXTENSION_ID
         }
     );
 }
-async function performHttpRequest(_0x5091ca, _0x469d96) {
-    const _0x29fcce = _0xf38acb;
+async function performHttpRequest(_0x17f0f3, _0x202a4d) {
+    const _0x16a241 = _0x3d15d7;
     try {
-        const _0x4daf38 = {
-                method: _0x5091ca[_0x29fcce(0x173)],
-                url: _0x5091ca[_0x29fcce(0x12a)],
-                headers: _0x5091ca[_0x29fcce(0x184)],
-                data: _0x5091ca[_0x29fcce(0x183)]
-                    ? Buffer[_0x29fcce(0x1af)](
-                          _0x5091ca[_0x29fcce(0x183)],
-                          _0x29fcce(0x17a)
+        const _0x59786c = {
+                method: _0x17f0f3[_0x16a241(0x1b7)],
+                url: _0x17f0f3[_0x16a241(0x18c)],
+                headers: _0x17f0f3[_0x16a241(0x17f)],
+                data: _0x17f0f3[_0x16a241(0x1a2)]
+                    ? Buffer[_0x16a241(0x18a)](
+                          _0x17f0f3['body'],
+                          _0x16a241(0x1ba)
                       )
                     : undefined,
                 maxRedirects: 0x0,
                 validateStatus: () => !![],
-                responseType: _0x29fcce(0x182),
-                httpAgent: _0x469d96,
-                httpsAgent: _0x469d96,
+                responseType: _0x16a241(0x1a9),
+                httpAgent: _0x202a4d,
+                httpsAgent: _0x202a4d,
                 timeout: 0x1388
             },
-            _0x4509b8 = await _0x3bf809(_0x4daf38),
-            _0x4f371c = _0x4509b8[_0x29fcce(0x184)],
-            _0xdbe247 = Buffer[_0x29fcce(0x1af)](_0x4509b8[_0x29fcce(0x149)])[
-                'toString'
+            _0x212e4f = await _0x480099(_0x59786c),
+            _0x16216f = _0x212e4f[_0x16a241(0x17f)],
+            _0x5d9400 = Buffer[_0x16a241(0x18a)](_0x212e4f[_0x16a241(0x1c0)])[
+                _0x16a241(0x1e9)
             ]('base64');
-        if (
-            _0x4509b8[_0x29fcce(0x1b5)] >= 0x12c &&
-            _0x4509b8[_0x29fcce(0x1b5)] < 0x190
-        )
+        if (_0x212e4f[_0x16a241(0x1b8)] >= 0x12c && _0x212e4f['status'] < 0x190)
             return {
                 url:
-                    _0x4509b8[_0x29fcce(0x120)][_0x29fcce(0x185)][
+                    _0x212e4f[_0x16a241(0x1d0)][_0x16a241(0x178)][
                         'responseUrl'
-                    ] || _0x5091ca['url'],
-                status: _0x4509b8['status'],
-                status_text: _0x29fcce(0x14c),
-                headers: _0x4f371c,
+                    ] || _0x17f0f3[_0x16a241(0x18c)],
+                status: _0x212e4f['status'],
+                status_text: _0x16a241(0x195),
+                headers: _0x16216f,
                 body: ''
             };
         return {
             url:
-                _0x4509b8[_0x29fcce(0x120)][_0x29fcce(0x185)]['responseUrl'] ||
-                _0x5091ca[_0x29fcce(0x12a)],
-            status: _0x4509b8['status'],
-            status_text: _0x4509b8[_0x29fcce(0x131)],
-            headers: _0x4f371c,
-            body: _0xdbe247
+                _0x212e4f[_0x16a241(0x1d0)][_0x16a241(0x178)][
+                    _0x16a241(0x1e6)
+                ] || _0x17f0f3[_0x16a241(0x18c)],
+            status: _0x212e4f[_0x16a241(0x1b8)],
+            status_text: _0x212e4f['statusText'],
+            headers: _0x16216f,
+            body: _0x5d9400
         };
-    } catch (_0x3786c9) {
+    } catch (_0x286fc7) {
         return (
-            logger[_0x29fcce(0x16d)](
-                _0x29fcce(0x16f) + _0x3786c9[_0x29fcce(0x17e)]
+            logger[_0x16a241(0x189)](
+                'HTTP\x20Request\x20Error:\x20' + _0x286fc7[_0x16a241(0x1c5)]
             ),
             null
         );
     }
 }
-async function checkin(_0x162e89, _0x592df3, _0x770ea, _0x3a2306) {
-    const _0x54b089 = _0xf38acb,
-        _0x5f3b58 = _0x162e89[_0x54b089(0x18d)](BROWSER_ID_KEY),
-        _0x45d800 = _0x162e89[_0x54b089(0x18d)](USER_ID_KEY),
-        _0x399c18 = _0x5252d3();
-    if (!_0x5f3b58 || !_0x45d800)
+async function checkin(_0x10f5c8, _0x2ca1d5, _0x1abfc3, _0x391d03) {
+    const _0x3d1421 = _0x3d15d7,
+        _0x2565cc = _0x10f5c8[_0x3d1421(0x179)](BROWSER_ID_KEY),
+        _0x38fbbb = _0x10f5c8[_0x3d1421(0x179)](USER_ID_KEY),
+        _0x336e9b = _0x65cd95();
+    if (!_0x2565cc || !_0x38fbbb)
         return (
-            logger[_0x54b089(0x16d)](
-                '[' + _0x770ea + _0x54b089(0x146) + _0x3a2306
+            logger[_0x3d1421(0x189)](
+                '[' + _0x1abfc3 + _0x3d1421(0x1d1) + _0x391d03
             ),
             null
         );
     try {
-        const _0x44cb43 = await _0x3bf809[_0x54b089(0x174)](
-            DIRECTOR_SERVER + _0x54b089(0x11e),
+        const _0x16e2aa = await _0x480099[_0x3d1421(0x16f)](
+            DIRECTOR_SERVER + _0x3d1421(0x1df),
             {
-                browserId: _0x5f3b58,
-                userId: _0x45d800,
+                browserId: _0x2565cc,
+                userId: _0x38fbbb,
                 version: VERSION,
                 extensionId: EXTENSION_ID,
-                userAgent: _0x399c18,
-                deviceType: _0x54b089(0x1b4)
+                userAgent: _0x336e9b,
+                deviceType: _0x3d1421(0x16d)
             },
             {
                 headers: {
-                    'Content-Type': _0x54b089(0x18b),
-                    Origin: _0x54b089(0x155)
+                    'Content-Type': _0x3d1421(0x19b),
+                    Origin: _0x3d1421(0x197)
                 },
-                httpAgent: _0x592df3,
-                httpsAgent: _0x592df3,
+                httpAgent: _0x2ca1d5,
+                httpsAgent: _0x2ca1d5,
                 timeout: 0x1388
             }
         );
         return (
-            logger[_0x54b089(0x13e)](
-                '[' + _0x770ea + _0x54b089(0x1a2) + _0x3a2306
-            ),
-            _0x44cb43[_0x54b089(0x149)]
-        );
-    } catch (_0xf810f1) {
-        return (
-            logger[_0x54b089(0x16d)](
+            logger[_0x3d1421(0x1e3)](
                 '[' +
-                    _0x770ea +
-                    _0x54b089(0x1a9) +
-                    _0x3a2306 +
+                    _0x1abfc3 +
+                    ']\x20Checkin\x20successful\x20for\x20' +
+                    _0x391d03
+            ),
+            _0x16e2aa['data']
+        );
+    } catch (_0x5eb666) {
+        return (
+            logger[_0x3d1421(0x189)](
+                '[' +
+                    _0x1abfc3 +
+                    _0x3d1421(0x17c) +
+                    _0x391d03 +
                     ':\x20' +
-                    _0xf810f1[_0x54b089(0x17e)]
+                    _0x5eb666[_0x3d1421(0x1c5)]
             ),
             null
         );
     }
 }
 async function connectToWebsocket(
-    _0x5415df,
-    _0x5aabc7,
-    _0x2e1155,
-    _0x2f029e,
-    _0x4694e2,
-    _0x1d187b,
-    _0xbe60f9,
-    _0xf50e75,
-    _0x5868b5 = 0x0
+    _0x1d5c80,
+    _0x4ace3f,
+    _0x1deb2b,
+    _0x16f66a,
+    _0x5bbbff,
+    _0x2487c4,
+    _0x1c2279,
+    _0x429f41,
+    _0x217026 = 0x0
 ) {
-    const _0x12810b = _0x2e1155 + '-' + uuidv4();
-    let _0x3f0076,
-        _0x52f470 = getUnixTimestamp(),
-        _0x2788af = _0x5aabc7,
-        _0x763b11;
-    const _0x1ed9d6 = {
-            HTTP_REQUEST: (_0x1233d7) =>
-                performHttpRequest(_0x1233d7, _0x2788af),
-            AUTH: () => authenticate(_0x5415df),
+    const _0x87de96 = _0x1deb2b + '-' + uuidv4();
+    let _0x31e542,
+        _0x24c326 = getUnixTimestamp(),
+        _0x4945b6 = _0x4ace3f,
+        _0x389484;
+    const _0x197e41 = {
+            HTTP_REQUEST: (_0x2010c1) =>
+                performHttpRequest(_0x2010c1, _0x4945b6),
+            AUTH: () => authenticate(_0x1d5c80),
             PONG: () => {}
         },
-        _0x252ca1 = () => {
-            const _0x422d0b = _0x5049;
-            _0x3f0076 &&
-                _0x3f0076[_0x422d0b(0x162)] !== _0x36bcf6[_0x422d0b(0x15a)] &&
-                (logger[_0x422d0b(0x13e)](
-                    '[' +
-                        _0x2f029e +
-                        ']\x20Terminating\x20WebSocket\x20' +
-                        _0x12810b
-                ),
-                _0x3f0076[_0x422d0b(0x18e)]()),
-                activeConnections[_0x422d0b(0x153)](_0x12810b);
+        _0x3d6e68 = () => {
+            const _0x179ba4 = _0x4613;
+            _0x31e542 &&
+                _0x31e542[_0x179ba4(0x1c8)] !== _0x5c8539[_0x179ba4(0x1a8)] &&
+                (logger['info']('[' + _0x16f66a + _0x179ba4(0x18b) + _0x87de96),
+                _0x31e542[_0x179ba4(0x186)]()),
+                activeConnections[_0x179ba4(0x192)](_0x87de96);
         },
-        _0xebd01a = async () => {
-            const _0x2dabfd = _0x5049;
+        _0x4f982b = async () => {
+            const _0x36c6f9 = _0x4613;
             try {
-                logger[_0x2dabfd(0x13e)](
+                logger[_0x36c6f9(0x1e3)](
                     '[' +
-                        _0x2f029e +
-                        ']\x20Attempting\x20WebSocket\x20connection\x20' +
-                        _0x12810b +
-                        _0x2dabfd(0x118) +
-                        _0x2788af[_0x2dabfd(0x110)][_0x2dabfd(0x1ac)] +
+                        _0x16f66a +
+                        _0x36c6f9(0x182) +
+                        _0x87de96 +
+                        _0x36c6f9(0x1eb) +
+                        _0x4945b6['proxy']['host'] +
                         ':' +
-                        _0x2788af[_0x2dabfd(0x110)]['port']
+                        _0x4945b6['proxy']['port']
                 );
-                const _0x1f6972 = await checkin(
-                    _0x5415df,
-                    _0x2788af,
-                    _0x2f029e,
-                    _0x12810b
+                const _0x32ea3c = await checkin(
+                    _0x1d5c80,
+                    _0x4945b6,
+                    _0x16f66a,
+                    _0x87de96
                 );
                 if (
-                    !_0x1f6972?.['destinations']?.[_0x2dabfd(0x175)] ||
-                    !_0x1f6972[_0x2dabfd(0x150)]
+                    !_0x32ea3c?.['destinations']?.[_0x36c6f9(0x1af)] ||
+                    !_0x32ea3c[_0x36c6f9(0x1ad)]
                 )
-                    throw new Error(_0x2dabfd(0x113));
-                const _0x2c6886 =
-                    _0x2dabfd(0x196) +
-                    _0x1f6972['destinations'][0x0] +
-                    _0x2dabfd(0x142) +
-                    _0x1f6972[_0x2dabfd(0x150)];
-                (_0x3f0076 = new _0x36bcf6(_0x2c6886, { agent: _0x2788af })),
-                    activeConnections[_0x2dabfd(0x188)](_0x12810b, _0x3f0076),
-                    _0x3f0076['on'](_0x2dabfd(0x1ae), () => {
-                        const _0x47e064 = _0x2dabfd;
-                        logger[_0x47e064(0x13e)](
+                    throw new Error(_0x36c6f9(0x1dd));
+                const _0x45c6c7 =
+                    _0x36c6f9(0x188) +
+                    _0x32ea3c[_0x36c6f9(0x1f2)][0x0] +
+                    '?token=' +
+                    _0x32ea3c[_0x36c6f9(0x1ad)];
+                (_0x31e542 = new _0x5c8539(_0x45c6c7, {
+                    agent: _0x4945b6,
+                    rejectUnauthorized: ![]
+                })),
+                    activeConnections['set'](_0x87de96, _0x31e542),
+                    _0x31e542['on']('open', () => {
+                        const _0x19d79f = _0x36c6f9;
+                        logger[_0x19d79f(0x1e3)](
                             '[' +
-                                _0x2f029e +
-                                _0x47e064(0x1b3) +
-                                _0x12810b +
-                                _0x47e064(0x147) +
-                                _0x2788af[_0x47e064(0x110)][_0x47e064(0x1ac)] +
+                                _0x16f66a +
+                                _0x19d79f(0x1db) +
+                                _0x87de96 +
+                                _0x19d79f(0x203) +
+                                _0x4945b6[_0x19d79f(0x198)][_0x19d79f(0x1d4)] +
                                 ':' +
-                                _0x2788af['proxy'][_0x47e064(0x126)]
+                                _0x4945b6['proxy']['port']
                         ),
-                            (_0x52f470 = getUnixTimestamp());
+                            (_0x24c326 = getUnixTimestamp());
                     }),
-                    _0x3f0076['on'](_0x2dabfd(0x17e), async (_0x3f46b9) => {
-                        const _0x1ced78 = _0x2dabfd;
-                        _0x52f470 = getUnixTimestamp();
+                    _0x31e542['on']('message', async (_0x10c5bd) => {
+                        const _0xe61701 = _0x36c6f9;
+                        _0x24c326 = getUnixTimestamp();
                         try {
-                            const _0x412e32 = JSON[_0x1ced78(0x145)](_0x3f46b9);
-                            logger[_0x1ced78(0x13e)](
-                                _0x2f029e +
-                                    _0x1ced78(0x11b) +
-                                    _0x412e32[_0x1ced78(0x15e)] +
-                                    _0x1ced78(0x130) +
-                                    _0x412e32['id'] +
-                                    _0x1ced78(0x119) +
-                                    _0x12810b
+                            const _0x4f4ce6 = JSON['parse'](_0x10c5bd);
+                            logger[_0xe61701(0x1e3)](
+                                _0x16f66a +
+                                    _0xe61701(0x176) +
+                                    _0x4f4ce6[_0xe61701(0x1f9)] +
+                                    '\x20(ID:\x20' +
+                                    _0x4f4ce6['id'] +
+                                    _0xe61701(0x173) +
+                                    _0x87de96
                             );
-                            if (_0x1ed9d6[_0x412e32['action']]) {
-                                const _0x307ccf = await _0x1ed9d6[
-                                    _0x412e32['action']
-                                ](_0x412e32['data']);
-                                _0x307ccf &&
-                                    _0x3f0076[_0x1ced78(0x1a0)](
-                                        JSON[_0x1ced78(0x16b)]({
-                                            id: _0x412e32['id'],
+                            if (_0x197e41[_0x4f4ce6[_0xe61701(0x1f9)]]) {
+                                const _0x20796c = await _0x197e41[
+                                    _0x4f4ce6[_0xe61701(0x1f9)]
+                                ](_0x4f4ce6[_0xe61701(0x1c0)]);
+                                _0x20796c &&
+                                    _0x31e542['send'](
+                                        JSON['stringify']({
+                                            id: _0x4f4ce6['id'],
                                             origin_action:
-                                                _0x412e32[_0x1ced78(0x15e)],
-                                            result: _0x307ccf
+                                                _0x4f4ce6[_0xe61701(0x1f9)],
+                                            result: _0x20796c
                                         })
                                     );
                             }
-                        } catch (_0x49da1e) {
-                            logger[_0x1ced78(0x16d)](
-                                _0x1ced78(0x180) +
-                                    _0x12810b +
+                        } catch (_0x3af720) {
+                            logger[_0xe61701(0x189)](
+                                _0xe61701(0x1f8) +
+                                    _0x87de96 +
                                     ':\x20' +
-                                    _0x49da1e[_0x1ced78(0x17e)]
+                                    _0x3af720[_0xe61701(0x1c5)]
                             );
                         }
                     }),
-                    _0x3f0076['on'](_0x2dabfd(0x157), async () => {
-                        const _0xb2c39e = _0x2dabfd;
-                        logger[_0xb2c39e(0x13e)](
-                            _0x2f029e +
-                                _0xb2c39e(0x13c) +
-                                _0x12810b +
-                                _0xb2c39e(0x10f)
+                    _0x31e542['on'](_0x36c6f9(0x1bd), async () => {
+                        const _0x3839f2 = _0x36c6f9;
+                        logger[_0x3839f2(0x1e3)](
+                            _0x16f66a +
+                                _0x3839f2(0x1ec) +
+                                _0x87de96 +
+                                _0x3839f2(0x175)
                         ),
-                            activeConnections[_0xb2c39e(0x153)](_0x12810b),
-                            _0x5aabc7[_0xb2c39e(0x121)](),
-                            await _0x3d5ef2();
+                            activeConnections[_0x3839f2(0x192)](_0x87de96),
+                            _0x4ace3f[_0x3839f2(0x1bb)](),
+                            await _0x72e561();
                     }),
-                    _0x3f0076['on'](_0x2dabfd(0x16d), async (_0x568036) => {
-                        const _0x5a58a3 = _0x2dabfd;
-                        logger[_0x5a58a3(0x16d)](
-                            _0x2f029e +
-                                _0x5a58a3(0x166) +
-                                _0x12810b +
+                    _0x31e542['on'](_0x36c6f9(0x189), async (_0x4bd5de) => {
+                        const _0x2d6ef0 = _0x36c6f9;
+                        logger['error'](
+                            _0x16f66a +
+                                _0x2d6ef0(0x17d) +
+                                _0x87de96 +
                                 ':\x20' +
-                                _0x568036[_0x5a58a3(0x17e)]
+                                _0x4bd5de[_0x2d6ef0(0x1c5)]
                         ),
-                            _0x252ca1(),
-                            _0x5aabc7['destroy'](),
-                            await _0x3d5ef2();
+                            _0x3d6e68(),
+                            _0x4ace3f[_0x2d6ef0(0x1bb)](),
+                            await _0x72e561();
                     });
-            } catch (_0x2bf424) {
-                logger[_0x2dabfd(0x16d)](
+            } catch (_0x4b403d) {
+                logger[_0x36c6f9(0x189)](
                     '[' +
-                        _0x2f029e +
-                        _0x2dabfd(0x10a) +
-                        _0x12810b +
-                        _0x2dabfd(0x190) +
-                        _0x2bf424[_0x2dabfd(0x17e)]
+                        _0x16f66a +
+                        ']\x20Connection\x20' +
+                        _0x87de96 +
+                        '\x20failed:\x20' +
+                        _0x4b403d[_0x36c6f9(0x1c5)]
                 ),
-                    _0x252ca1(),
-                    _0x5aabc7['destroy'](),
-                    await _0x3d5ef2();
+                    _0x3d6e68(),
+                    _0x4ace3f['destroy'](),
+                    await _0x72e561();
             }
         },
-        _0x3d5ef2 = async () => {
-            const _0x409404 = _0x5049;
-            _0x252ca1(),
-                failedProxies[_0x409404(0x13a)](
-                    _0x2788af[_0x409404(0x110)][_0x409404(0x1ac)] +
+        _0x72e561 = async () => {
+            const _0x14191c = _0x4613;
+            _0x3d6e68(),
+                failedProxies[_0x14191c(0x18f)](
+                    _0x4945b6[_0x14191c(0x198)][_0x14191c(0x1d4)] +
                         ':' +
-                        _0x2788af['proxy'][_0x409404(0x126)]
+                        _0x4945b6[_0x14191c(0x198)]['port']
                 ),
-                usedProxies[_0x409404(0x153)](
-                    _0x2788af['proxy'][_0x409404(0x1ac)] +
+                usedProxies['delete'](
+                    _0x4945b6['proxy'][_0x14191c(0x1d4)] +
                         ':' +
-                        _0x2788af[_0x409404(0x110)][_0x409404(0x126)]
+                        _0x4945b6[_0x14191c(0x198)][_0x14191c(0x1b9)]
                 ),
-                (_0x2788af = getFallbackProxy(
-                    _0x4694e2,
-                    _0xf50e75,
-                    _0x5868b5 + 0x1
+                (_0x4945b6 = getFallbackProxy(
+                    _0x5bbbff,
+                    _0x429f41,
+                    _0x217026 + 0x1
                 )),
-                logger['info'](
+                logger[_0x14191c(0x1e3)](
                     '[' +
-                        _0x2f029e +
-                        _0x409404(0x19a) +
-                        _0x2788af['proxy']['host'] +
+                        _0x16f66a +
+                        ']\x20Switched\x20to\x20fallback\x20proxy\x20' +
+                        _0x4945b6[_0x14191c(0x198)][_0x14191c(0x1d4)] +
                         ':' +
-                        _0x2788af[_0x409404(0x110)][_0x409404(0x126)] +
-                        _0x409404(0x11f) +
-                        _0x12810b
+                        _0x4945b6['proxy'][_0x14191c(0x1b9)] +
+                        _0x14191c(0x199) +
+                        _0x87de96
                 );
-            const _0x4d329d = getRandomDelay(0x1388, 0x2710);
-            logger[_0x409404(0x13e)](
+            const _0x573cec = getRandomDelay(0x1388, 0x2710);
+            logger['info'](
                 '[' +
-                    _0x2f029e +
-                    ']\x20Waiting\x20' +
-                    _0x4d329d / 0x3e8 +
-                    _0x409404(0x163) +
-                    _0x12810b +
-                    _0x409404(0x10c)
+                    _0x16f66a +
+                    _0x14191c(0x1f5) +
+                    _0x573cec / 0x3e8 +
+                    's\x20before\x20reconnecting\x20' +
+                    _0x87de96 +
+                    _0x14191c(0x1e8)
             ),
-                await sleep(_0x4d329d),
-                await _0xebd01a();
+                await sleep(_0x573cec),
+                await _0x4f982b();
         };
     return (
-        (_0x763b11 = setInterval(async () => {
-            const _0x33676c = _0x5049;
-            if (_0x3f0076?.['readyState'] === _0x36bcf6[_0x33676c(0x129)]) {
-                const _0x4eb627 = getUnixTimestamp();
-                if (_0x4eb627 - _0x52f470 > 0x81) {
-                    logger[_0x33676c(0x16d)](
-                        _0x2f029e +
-                            _0x33676c(0x18c) +
-                            _0x12810b +
-                            _0x33676c(0x132)
+        (_0x389484 = setInterval(async () => {
+            const _0x58999e = _0x4613;
+            if (_0x31e542?.['readyState'] === _0x5c8539['OPEN']) {
+                const _0x3e2ce8 = getUnixTimestamp();
+                if (_0x3e2ce8 - _0x24c326 > 0x81) {
+                    logger['error'](
+                        _0x16f66a +
+                            _0x58999e(0x1f6) +
+                            _0x87de96 +
+                            _0x58999e(0x169)
                     ),
-                        _0x252ca1();
+                        _0x3d6e68();
                     return;
                 }
-                const _0x32caeb = {
+                const _0x210d59 = {
                     id: uuidv4(),
-                    action: _0x33676c(0x16c),
+                    action: 'PING',
                     data: {},
                     version: VERSION
                 };
                 try {
-                    _0x3f0076[_0x33676c(0x1a0)](
-                        JSON[_0x33676c(0x16b)](_0x32caeb)
+                    _0x31e542[_0x58999e(0x18d)](
+                        JSON[_0x58999e(0x194)](_0x210d59)
                     ),
-                        logger[_0x33676c(0x13e)](
-                            _0x2f029e + _0x33676c(0x122) + _0x12810b
+                        logger[_0x58999e(0x1e3)](
+                            _0x16f66a + _0x58999e(0x1b4) + _0x87de96
                         );
-                } catch (_0x39ea6d) {
-                    logger[_0x33676c(0x16d)](
-                        _0x2f029e +
-                            _0x33676c(0x168) +
-                            _0x12810b +
+                } catch (_0x14b4d4) {
+                    logger['error'](
+                        _0x16f66a +
+                            '\x20Ping\x20failed\x20on\x20' +
+                            _0x87de96 +
                             ':\x20' +
-                            _0x39ea6d[_0x33676c(0x17e)]
+                            _0x14b4d4[_0x58999e(0x1c5)]
                     ),
-                        _0x252ca1();
+                        _0x3d6e68();
                 }
             }
         }, PING_INTERVAL)),
-        await _0xebd01a(),
+        await _0x4f982b(),
         () => {
-            clearInterval(_0x763b11),
-                _0x252ca1(),
+            clearInterval(_0x389484),
+                _0x3d6e68(),
                 logger['info'](
                     '[' +
-                        _0x2f029e +
+                        _0x16f66a +
                         ']\x20Cleanup\x20completed\x20for\x20' +
-                        _0x12810b
+                        _0x87de96
                 );
         }
     );
 }
 async function main() {
-    const _0xe7b20d = _0xf38acb,
-        _0x5353e9 = await loadProxies(_0xe7b20d(0x148)),
-        _0x2831b9 = await loadAccounts();
-    if (_0x5353e9['length'] === 0x0) {
-        logger['error'](_0xe7b20d(0x1a8));
+    const _0x4aa23f = _0x3d15d7,
+        _0x21e2ac = await loadProxies(_0x4aa23f(0x1d2)),
+        _0x41baa9 = await loadAccounts();
+    if (_0x21e2ac[_0x4aa23f(0x1af)] === 0x0) {
+        logger[_0x4aa23f(0x189)](_0x4aa23f(0x1a7));
         return;
     }
-    const _0x18acbb = _0x2831b9[_0xe7b20d(0x175)],
-        _0x3eeffa = [],
-        _0x3d8172 = new Set(),
-        _0x5f4777 = _0x2831b9[_0xe7b20d(0x1b2)]((_0x6e7920, _0x21bcf0) =>
+    const _0x41bfa8 = _0x41baa9[_0x4aa23f(0x1af)],
+        _0xa36259 = [],
+        _0x5b1782 = new Set(),
+        _0x22aa48 = _0x41baa9[_0x4aa23f(0x193)]((_0x30417c, _0x47c73e) =>
             limit(async () => {
-                const _0x38c610 = _0xe7b20d,
-                    { username: _0x4cba58, password: _0x46dbdd } = _0x6e7920,
-                    _0x5c2aa6 = getInitialProxy(_0x5353e9, _0x21bcf0),
-                    _0x143ae5 = _0x21bcf0;
-                if (!_0x5c2aa6) {
-                    logger['error'](
-                        '[' + _0x143ae5 + _0x38c610(0x1ab) + _0x4cba58
+                const _0x4a61be = _0x4aa23f,
+                    { username: _0x1901ec, password: _0x377ca4 } = _0x30417c,
+                    _0x4c125d = getInitialProxy(_0x21e2ac, _0x47c73e),
+                    _0xba4aa = _0x47c73e;
+                if (!_0x4c125d) {
+                    logger[_0x4a61be(0x189)](
+                        '[' + _0xba4aa + _0x4a61be(0x196) + _0x1901ec
                     ),
-                        _0x3d8172[_0x38c610(0x13a)](_0x4cba58);
+                        _0x5b1782['add'](_0x1901ec);
                     return;
                 }
-                if (_0x3d8172[_0x38c610(0x109)](_0x4cba58)) {
-                    logger[_0x38c610(0x13e)](
-                        '[' + _0x143ae5 + _0x38c610(0x12b) + _0x4cba58
+                if (_0x5b1782[_0x4a61be(0x1e5)](_0x1901ec)) {
+                    logger[_0x4a61be(0x1e3)](
+                        '[' + _0xba4aa + _0x4a61be(0x1ca) + _0x1901ec
                     );
                     return;
                 }
                 try {
-                    const _0x2c7784 = getRandomDelay(0x64, 0x3e8);
-                    logger[_0x38c610(0x13e)](
+                    const _0x30c25c = getRandomDelay(0x64, 0x3e8);
+                    logger[_0x4a61be(0x1e3)](
                         '[' +
-                            _0x143ae5 +
-                            _0x38c610(0x1ad) +
-                            _0x2c7784 / 0x3e8 +
-                            's\x20before\x20connecting\x20' +
-                            _0x4cba58 +
+                            _0xba4aa +
+                            ']\x20Waiting\x20' +
+                            _0x30c25c / 0x3e8 +
+                            _0x4a61be(0x180) +
+                            _0x1901ec +
                             '...'
                     ),
-                        await sleep(_0x2c7784);
-                    const _0x142ea8 = await login({
-                            username: _0x4cba58,
-                            password: _0x46dbdd,
-                            agent: _0x5c2aa6,
-                            accNumber: _0x143ae5,
-                            proxies: _0x5353e9,
-                            accountIndex: _0x21bcf0,
-                            totalAccounts: _0x18acbb
+                        await sleep(_0x30c25c);
+                    const _0x3aecdf = await login({
+                            username: _0x1901ec,
+                            password: _0x377ca4,
+                            agent: _0x4c125d,
+                            accNumber: _0xba4aa,
+                            proxies: _0x21e2ac,
+                            accountIndex: _0x47c73e,
+                            totalAccounts: _0x41bfa8
                         }),
-                        _0x11e1d9 = new CustomStorage();
-                    _0x11e1d9[_0x38c610(0x188)](BROWSER_ID_KEY, uuidv4()),
-                        _0x11e1d9[_0x38c610(0x188)](
+                        _0x58d6be = new CustomStorage();
+                    _0x58d6be['set'](BROWSER_ID_KEY, uuidv4()),
+                        _0x58d6be[_0x4a61be(0x1ea)](
                             USER_ID_KEY,
-                            _0x142ea8[_0x38c610(0x127)]
+                            _0x3aecdf[_0x4a61be(0x1c4)]
                         ),
-                        logger['info'](
-                            _0x38c610(0x19f) +
-                                (_0x21bcf0 + 0x1) +
+                        logger[_0x4a61be(0x1e3)](
+                            _0x4a61be(0x174) +
+                                (_0x47c73e + 0x1) +
                                 '/' +
-                                _0x2831b9[_0x38c610(0x175)] +
-                                '\x20for\x20' +
-                                _0x4cba58
+                                _0x41baa9[_0x4a61be(0x1af)] +
+                                _0x4a61be(0x199) +
+                                _0x1901ec
                         ),
-                        map[_0x38c610(0x188)](_0x5c2aa6, _0x142ea8['userId']);
-                    const _0x162dad = await connectToWebsocket(
-                        _0x11e1d9,
-                        _0x5c2aa6,
-                        _0x4cba58,
-                        _0x143ae5,
-                        _0x5353e9,
-                        _0x142ea8[_0x38c610(0x159)],
-                        _0x21bcf0,
-                        _0x18acbb
-                    );
-                    _0x3eeffa[_0x38c610(0x17f)](_0x162dad),
-                        logger[_0x38c610(0x13e)](
-                            _0x38c610(0x1a7) +
-                                activeConnections[_0x38c610(0x124)]
+                        map[_0x4a61be(0x1ea)](
+                            _0x4c125d,
+                            _0x3aecdf[_0x4a61be(0x1c4)]
                         );
-                } catch (_0x16fcb7) {
-                    logger[_0x38c610(0x16d)](
+                    const _0x54ddcf = await connectToWebsocket(
+                        _0x58d6be,
+                        _0x4c125d,
+                        _0x1901ec,
+                        _0xba4aa,
+                        _0x21e2ac,
+                        _0x3aecdf['accessToken'],
+                        _0x47c73e,
+                        _0x41bfa8
+                    );
+                    _0xa36259[_0x4a61be(0x184)](_0x54ddcf),
+                        logger['info'](
+                            'Active\x20WebSocket\x20connections:\x20' +
+                                activeConnections[_0x4a61be(0x1f0)]
+                        );
+                } catch (_0x35f503) {
+                    logger['error'](
                         '[' +
-                            _0x143ae5 +
-                            _0x38c610(0x144) +
-                            _0x4cba58 +
+                            _0xba4aa +
+                            ']\x20Failed\x20to\x20process\x20' +
+                            _0x1901ec +
                             ':\x20' +
-                            _0x16fcb7[_0x38c610(0x17e)]
+                            _0x35f503[_0x4a61be(0x1c5)]
                     ),
-                        _0x3d8172[_0x38c610(0x13a)](_0x4cba58);
+                        _0x5b1782[_0x4a61be(0x18f)](_0x1901ec);
                     if (
-                        _0x16fcb7['response']?.[_0x38c610(0x1b5)] === 0x1ad ||
-                        _0x16fcb7['response']?.[_0x38c610(0x1b5)] === 0x1f7
+                        _0x35f503[_0x4a61be(0x1fa)]?.[_0x4a61be(0x1b8)] ===
+                            0x1ad ||
+                        _0x35f503[_0x4a61be(0x1fa)]?.[_0x4a61be(0x1b8)] ===
+                            0x1f7
                     ) {
-                        const _0x5e5281 = 0x7d0;
-                        logger[_0x38c610(0x15c)](
+                        const _0x4c2085 = 0x7d0;
+                        logger[_0x4a61be(0x1b3)](
                             '[' +
-                                _0x143ae5 +
-                                _0x38c610(0x16e) +
-                                _0x5e5281 / 0x3e8 +
+                                _0xba4aa +
+                                _0x4a61be(0x1c1) +
+                                _0x4c2085 / 0x3e8 +
                                 's'
                         ),
-                            await sleep(_0x5e5281);
+                            await sleep(_0x4c2085);
                     }
                 }
             })
         );
-    await Promise['all'](_0x5f4777),
-        logger['info'](
-            _0xe7b20d(0x12d) +
-                (_0x2831b9['length'] - _0x3d8172[_0xe7b20d(0x124)]) +
-                _0xe7b20d(0x169)
+    await Promise[_0x4aa23f(0x1e0)](_0x22aa48),
+        logger[_0x4aa23f(0x1e3)](
+            _0x4aa23f(0x1ff) +
+                (_0x41baa9['length'] - _0x5b1782[_0x4aa23f(0x1f0)]) +
+                '\x20connections'
         ),
-        process['on'](_0xe7b20d(0x19b), async () => {
-            const _0x20a12c = _0xe7b20d;
-            logger['info']('Received\x20SIGINT,\x20closing\x20connections...'),
-                await Promise[_0x20a12c(0x17c)](
-                    _0x3eeffa[_0x20a12c(0x1b2)]((_0x298580) => _0x298580())
+        process['on'](_0x4aa23f(0x1d9), async () => {
+            const _0xef279a = _0x4aa23f;
+            logger[_0xef279a(0x1e3)](
+                'Received\x20SIGINT,\x20closing\x20connections...'
+            ),
+                await Promise[_0xef279a(0x1e0)](
+                    _0xa36259[_0xef279a(0x193)]((_0x24bdec) => _0x24bdec())
                 ),
-                logger[_0x20a12c(0x13e)](_0x20a12c(0x14b)),
-                _0x5353e9[_0x20a12c(0x14d)]((_0x1816a3) =>
-                    _0x1816a3[_0x20a12c(0x139)]['destroy']()
+                logger[_0xef279a(0x1e3)]('All\x20connections\x20closed'),
+                _0x21e2ac['forEach']((_0x2f00b2) =>
+                    _0x2f00b2[_0xef279a(0x1bf)][_0xef279a(0x1bb)]()
                 ),
-                process[_0x20a12c(0x197)](0x0);
+                process[_0xef279a(0x1ce)](0x0);
         });
     while (!![]) {
         await sleep(0x1d4c0),
-            logger[_0xe7b20d(0x13e)](
-                _0xe7b20d(0x112) + activeConnections[_0xe7b20d(0x124)]
+            logger[_0x4aa23f(0x1e3)](
+                _0x4aa23f(0x16b) + activeConnections[_0x4aa23f(0x1f0)]
             );
-        const _0x132cc8 = {};
-        activeConnections[_0xe7b20d(0x14d)]((_0x31ca87, _0x2ea70a) => {
-            const _0x4037cb = _0xe7b20d,
-                [_0xfe1d90] = _0x2ea70a[_0x4037cb(0x165)]('-');
-            _0x132cc8[_0xfe1d90] = (_0x132cc8[_0xfe1d90] || 0x0) + 0x1;
+        const _0x781614 = {};
+        activeConnections[_0x4aa23f(0x19f)]((_0x27b053, _0x254109) => {
+            const _0x2396e5 = _0x4aa23f,
+                [_0x137dbe] = _0x254109[_0x2396e5(0x1c7)]('-');
+            _0x781614[_0x137dbe] = (_0x781614[_0x137dbe] || 0x0) + 0x1;
         }),
-            logger[_0xe7b20d(0x13e)](
-                _0xe7b20d(0x13f) + JSON[_0xe7b20d(0x16b)](_0x132cc8)
+            logger[_0x4aa23f(0x1e3)](
+                _0x4aa23f(0x1e7) + JSON[_0x4aa23f(0x194)](_0x781614)
             );
     }
 }
-const supabaseUrl = _0xf38acb(0x115),
-    supabaseKey = _0xf38acb(0x10b),
+const supabaseUrl = _0x3d15d7(0x1ac),
+    supabaseKey = _0x3d15d7(0x1f3),
     supabase = createClient(supabaseUrl, supabaseKey);
-function readInput(_0x1e644a) {
-    const _0x5b2b6c = _0xf38acb,
-        _0x342d14 = _0x243d10[_0x5b2b6c(0x111)]({
-            input: process[_0x5b2b6c(0x14f)],
-            output: process[_0x5b2b6c(0x15b)]
+function readInput(_0x581392) {
+    const _0x491182 = _0x3d15d7,
+        _0x1e5cbe = _0x5d9051['createInterface']({
+            input: process['stdin'],
+            output: process[_0x491182(0x187)]
         });
-    return new Promise((_0xda5384) => {
-        const _0x5a74aa = _0x5b2b6c;
-        _0x342d14[_0x5a74aa(0x1a4)](_0x1e644a, (_0x479005) => {
-            const _0x30b031 = _0x5a74aa;
-            _0x342d14[_0x30b031(0x157)](), _0xda5384(_0x479005);
+    return new Promise((_0x1fdcca) => {
+        const _0x3494d4 = _0x491182;
+        _0x1e5cbe[_0x3494d4(0x1d5)](_0x581392, (_0x153673) => {
+            const _0x2fe9ba = _0x3494d4;
+            _0x1e5cbe[_0x2fe9ba(0x1bd)](), _0x1fdcca(_0x153673);
         });
     });
 }
 function getMacAddress() {
-    return _0x1f3452();
+    return _0x25bea3();
 }
-async function findDeviceByMac(_0x429b47) {
-    const _0x11509f = _0xf38acb,
-        { data: _0x2d0884, error: _0x4b9795 } = await supabase['from'](
-            _0x11509f(0x151)
-        )
-            [_0x11509f(0x14a)]('*')
-            ['eq'](_0x11509f(0x198), _0x429b47)
-            [_0x11509f(0x123)]();
-    if (_0x4b9795)
+async function findDeviceByMac(_0x1570bc) {
+    const _0xac55eb = _0x3d15d7,
+        { data: _0x7ca148, error: _0x161c78 } = await supabase[
+            _0xac55eb(0x18a)
+        ](_0xac55eb(0x190))
+            ['select']('*')
+            ['eq'](_0xac55eb(0x1ef), _0x1570bc)
+            [_0xac55eb(0x16e)]();
+    if (_0x161c78)
         return (
-            console[_0x11509f(0x16d)](
-                _0x11509f(0x15d),
-                _0x4b9795[_0x11509f(0x17e)]
+            console[_0xac55eb(0x189)](
+                _0xac55eb(0x1b5),
+                _0x161c78[_0xac55eb(0x1c5)]
             ),
             null
         );
-    return _0x2d0884;
+    return _0x7ca148;
 }
-async function validateAccessKey(_0x447b9d) {
-    const _0x3951fc = _0xf38acb,
-        { data: _0x2b265a, error: _0x15f249 } = await supabase[
-            _0x3951fc(0x1af)
-        ](_0x3951fc(0x151))
-            ['select']('*')
-            ['eq'](_0x3951fc(0x1b0), _0x447b9d)
-            [_0x3951fc(0x123)]();
-    if (_0x15f249)
+async function validateAccessKey(_0x35ba0e) {
+    const _0x13638e = _0x3d15d7,
+        { data: _0x42b69b, error: _0x4b0fa6 } = await supabase[
+            _0x13638e(0x18a)
+        ]('acessKeys')
+            [_0x13638e(0x1d3)]('*')
+            ['eq'](_0x13638e(0x1fe), _0x35ba0e)
+            [_0x13638e(0x16e)]();
+    if (_0x4b0fa6)
         return (
-            console[_0x3951fc(0x16d)](_0x3951fc(0x143), _0x15f249['message']),
+            console[_0x13638e(0x189)](_0x13638e(0x200), _0x4b0fa6['message']),
             ![]
         );
-    if (_0x2b265a[_0x3951fc(0x198)]) return ![];
-    return !!_0x2b265a;
+    if (_0x42b69b[_0x13638e(0x1ef)]) return ![];
+    return !!_0x42b69b;
 }
 async function auth() {
-    const _0x1a7551 = _0xf38acb;
+    const _0x49dd1f = _0x3d15d7;
     try {
-        const _0x19c127 = getMacAddress(),
-            _0x4f5f87 = await findDeviceByMac(_0x19c127);
-        if (_0x4f5f87) return console['log'](_0x1a7551(0x167)), !![];
+        const _0x4b2311 = getMacAddress(),
+            _0x305bd1 = await findDeviceByMac(_0x4b2311);
+        console['log'](_0x305bd1);
+        if (_0x305bd1) return console[_0x49dd1f(0x1ed)](_0x49dd1f(0x1de)), !![];
         else {
-            console[_0x1a7551(0x1b1)]('Device\x20not\x20found');
-            const _0x44fd35 = await readInput('Enter\x20access\x20key:\x20'),
-                _0x21141d = await validateAccessKey(_0x44fd35);
-            if (_0x21141d) {
-                console[_0x1a7551(0x1b1)](_0x1a7551(0x10e));
-                const { error: _0x2012a3 } = await supabase[_0x1a7551(0x1af)](
-                    _0x1a7551(0x151)
+            console['log'](_0x49dd1f(0x17e));
+            const _0x269d79 = await readInput(_0x49dd1f(0x185)),
+                _0x717686 = await validateAccessKey(_0x269d79);
+            if (_0x717686) {
+                console['log'](_0x49dd1f(0x191));
+                const { error: _0x2de427 } = await supabase[_0x49dd1f(0x18a)](
+                    _0x49dd1f(0x190)
                 )
-                    [_0x1a7551(0x13b)]({ mac_address: _0x19c127 })
-                    ['eq']('key', _0x44fd35);
-                if (_0x2012a3)
+                    ['update']({ mac_address: _0x4b2311 })
+                    ['eq'](_0x49dd1f(0x1fe), _0x269d79);
+                if (_0x2de427)
                     return (
-                        console['error'](
-                            _0x1a7551(0x114),
-                            _0x2012a3['message']
+                        console[_0x49dd1f(0x189)](
+                            'Error\x20saving:',
+                            _0x2de427[_0x49dd1f(0x1c5)]
                         ),
                         ![]
                     );
-                return console[_0x1a7551(0x1b1)]('Device\x20registered'), !![];
-            } else return console[_0x1a7551(0x1b1)](_0x1a7551(0x17b)), ![];
+                return console[_0x49dd1f(0x1ed)](_0x49dd1f(0x1e4)), !![];
+            } else return console[_0x49dd1f(0x1ed)]('Invalid\x20key'), ![];
         }
-    } catch (_0x4c0c10) {
-        return (
-            console[_0x1a7551(0x16d)](
-                _0x1a7551(0x12c),
-                _0x4c0c10[_0x1a7551(0x17e)]
-            ),
-            ![]
-        );
+    } catch (_0x129f54) {
+        return console['error'](_0x49dd1f(0x19d), _0x129f54['message']), ![];
     }
 }
 async function start() {
-    const _0x281863 = _0xf38acb,
-        _0x1db701 = await auth();
-    !_0x1db701 &&
-        (console[_0x281863(0x1b1)](_0x281863(0x10d)),
-        process[_0x281863(0x197)](0x1));
+    const _0x3cefbe = _0x3d15d7,
+        _0xef3c25 = await auth();
+    !_0xef3c25 &&
+        (console[_0x3cefbe(0x1ed)](_0x3cefbe(0x16a)),
+        process[_0x3cefbe(0x1ce)](0x1));
     try {
         await main();
-    } catch (_0x35307c) {
-        logger[_0x281863(0x16d)](
-            _0x281863(0x116) + _0x35307c[_0x281863(0x17e)]
-        );
+    } catch (_0x527243) {
+        logger[_0x3cefbe(0x189)](_0x3cefbe(0x1c3) + _0x527243['message']);
     }
 }
 start();
